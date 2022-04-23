@@ -7,7 +7,7 @@
 .container{
     height: 100vh;
     width: 100%;
-    background-image: url(media/background.jpg);
+    background-image: url(media/image.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -49,4 +49,8 @@
     color: #fff;
     line-height: 110px;
     float: left;
+}
+
+h2 {
+    color:#fff
 }
